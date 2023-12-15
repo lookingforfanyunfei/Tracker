@@ -25,10 +25,10 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '786452470@qq.com' => 'fyf786452470@gmail.com' }
-  s.source           = { :git => 'https://github.com/786452470@qq.com/Tracker.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/lookingforfanyunfei/Tracker.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'Tracker/Classes/**/*'
   
